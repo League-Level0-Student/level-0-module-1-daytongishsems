@@ -13,6 +13,15 @@ public static void main(String[] args) {
 
 		// 3. In a pop-up, tell the user what is remarkable about that person. 
 
+	JOptionPane.showMessageDialog(null, "You are very funny!");
+	
+	String input = JOptionPane.showInputDialog("What is your name?");	
+
+	JOptionPane.showMessageDialog(null,input+ "you are very nice!");
+
+	
+	
+	
 	}
 }
 
