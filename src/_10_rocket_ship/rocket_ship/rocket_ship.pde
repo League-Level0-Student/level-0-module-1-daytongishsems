@@ -4,10 +4,16 @@ int y = 600;
 void setup() {
 
     background(0, 0, 40); size(800, 800);
-
+if keypressed==38) {
+  draw.setAngle(180)
 }
 
-void draw() {
+
+void draw()
+
+{
+  
+  
 
     fill(random(255), 0, 0);
     ellipse(x, y + 130, 90, 90);
