@@ -11,4 +11,7 @@ int facebookFriends= 100
 String myBirthday= "7/5/07";
 int sidesInATrinagle= 3
 
-what you got for your
+String whatyougotforyourbirthday = "A New Bike";
+int thelastmealyouate = Lunch
+int what time you go to bed = 9:30 pm
+String how many Robot programs you have written = "At least 20";
